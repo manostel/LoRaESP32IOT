@@ -1,3 +1,3 @@
 # LoRaESP32IOT
 
-# To arxeio 0XBB.INO einai to address apo to Gateaway opou menei sto simeio elegxou enw to 0XFF.INO einai sto shmeio poy theloyme na kanoyme metriseis.
+# Το αρχείο 0xBB.ino είναι το ζευγάρι ESP32-LoRa που θα είναι στο σημείο που θα εχει πρόσβαση στον server ενώ το αρχείο 0xFF.ino ειναι το ζευγάρι  ESP32-LoRa που είναι στην τοποθεσία μέτρησης με τον αισθητήρα.
